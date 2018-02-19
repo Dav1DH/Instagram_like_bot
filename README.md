@@ -2,6 +2,6 @@
 Instagram Like bot
 
 # installation:
-  npm install
-  edit user-specific variables in settings.json
-  node instagram_likebot.js
+  1. npm install
+  2. edit user-specific variables in settings.json
+  3. node instagram_likebot.js
