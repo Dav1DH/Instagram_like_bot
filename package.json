@@ -1,0 +1,17 @@
+{
+  "name": "Instagram_likebot",
+  "version": "1.0.0",
+  "description": "Instagram like bot",
+  "main": "none",
+  "dependencies": {
+    "chromedriver": "^2.29.0",
+    "log4js": "",
+    "phantomjs": "^1.9.19",
+    "promise": "",
+    "selenium-webdriver": "^2.53.3"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "author": "Dav1d",
+  "license": ""
+}
